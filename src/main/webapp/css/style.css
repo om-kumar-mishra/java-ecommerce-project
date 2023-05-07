@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+.custom-bg
+{
+	background-color:#1a237e;
+	color:#ffffff;
+}
+label
+{
+	text-align:center;
+	font-style:bold;
+	font-size:20px;
+}
+.loginform
+{
+	border-radius:30px yellow;
+}
+.loginbackground
+{
+	background-image:url(background_image.webp);
+}
+.discount_label
+{
+	font-size:12px!important;
+	font-style:italic;
+	
+}
+.product-card:hover
+{
+	background:#e2e2e2;
+	cursor:pointer;
+	
+}
+.price
+{
+	text-decoration:line-through;
+}
